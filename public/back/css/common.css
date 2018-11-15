@@ -15,6 +15,12 @@ a:active {
 .red {
     color : #a94442;
 }
+.table.table-bordered th,
+.table.table-bordered td {
+    text-align: center;
+    vertical-align: middle;
+
+}
 
 .body_bg {
     background-color: #222D32;
