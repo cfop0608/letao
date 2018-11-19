@@ -162,6 +162,9 @@ $(function () {
             $("#dropdownText").text("请选择一级分类");
             // 图片重置
             $("#imgBox img").attr("src","./images/none.png");
+
+            // 清空数组
+            picArr = [];
          }
        }
      })
