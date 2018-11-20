@@ -1,0 +1,17 @@
+
+
+
+
+
+
+/* 导航区域 */
+.lt_nav {
+    padding : 10px;
+}
+.lt_nav li {
+    width: 33.3%;
+    float :left;
+}
+.lt_nav li a {
+    display: block;
+  }
